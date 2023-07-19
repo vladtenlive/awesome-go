@@ -281,7 +281,7 @@ _Libraries for building and working with bots._
 - [echotron](https://github.com/NicoNex/echotron) - An elegant and concurrent library for Telegram Bots in Go.
 - [ephemeral-roles](https://github.com/ewohltman/ephemeral-roles) - A Discord bot for managing ephemeral roles based upon voice channel member presence.
 - [go-chat-bot](https://github.com/go-chat-bot/bot) - IRC, Slack & Telegram bot written in Go.
-- [gotgbot](https://github.com/PaulSonOfLars/gotgbot)
+- [gotgbot](https://github.com/PaulSonOfLars/gotgbot) - Framework to build a Telegram Bot 
 - [go-joe](https://joe-bot.net) - A general-purpose bot library inspired by Hubot but written in Go.
 - [go-sarah](https://github.com/oklahomer/go-sarah) - Framework to build a bot for desired chat services including LINE, Slack, Gitter, and more.
 - [go-tgbot](https://github.com/olebedev/go-tgbot) - Pure Golang Telegram Bot API wrapper, generated from swagger file, session-based router, and middleware.
